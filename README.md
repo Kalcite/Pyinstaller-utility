@@ -1,6 +1,6 @@
 # Pyinstaller-utility
 
-Do not elevate permissions!
+Do not elevate permissions!  
 A small tool for quickly packaging programs with pyinstaller, with limited functionality
 
 ## First generation version features  
